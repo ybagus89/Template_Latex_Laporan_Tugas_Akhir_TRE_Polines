@@ -1,0 +1,58 @@
+%\documentclass[12pt]{report}
+\documentclass[12pt, a4paper, onecolumn, oneside, final]{report}
+
+\input{a0_identitas}
+% Preamble
+\input{preambel}
+
+\begin{document}
+
+
+% Halaman Judul luar
+\input{00haljudul_01.tex}
+
+\pagenumbering{roman}
+% Halaman Judul Dalam
+\input{00haljudul_02.tex}
+
+% Pernyataan Keaslian Tugas Akhir/Skripsi
+\input{00suratpernyataan}
+
+% Halaman persetujuan
+\input{00HalPersetujuan}
+
+% Halaman Pengesahan
+\input{00HalPengesahan.tex}
+
+% Kata Pengantar
+\input{00Katapengantar.tex}
+
+% Abstrak
+\input{00abstractid.tex}
+
+% Daftar Isi
+%\tableofcontents
+\input{00daftarisi}
+
+\pagenumbering{arabic}
+
+% Bab 1
+\input{01Bab1.tex}
+
+% Bab 2
+\input{01Bab2.tex}
+
+% Bab 3
+\input{01Bab3.tex}
+
+% Bab 4
+\input{01Bab4.tex}
+
+% Bab 5
+\input{01Bab5.tex}
+
+% Daftar Pustaka
+%\printbibliography[title={Daftar Pustaka}]
+\input{02Daftar_pustaka}
+
+\end{document}
