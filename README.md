@@ -16,7 +16,7 @@ Unduh repo ini dengan menggunakan git atau dengan klik Download Zip yang ada di 
 ## Petunjuk Penggunaan
 
 ### Overleaf - Browser
-Versi template overleaf dapat diklik pada link berikut https://www.overleaf.com/latex/templates/template-laporan-tugas-akhir-sarjana-terapan-teknik-elektro-dan-elektronika-15062023/vpjkgjwzcdrv
+Versi template overleaf dapat diklik pada link berikut (akan di update)
 
 ### Windows / MacOS / Linux
 1. Unduh dan Install MikTeX (https://miktex.org/download) sebagai distribusi dari LaTeX dan TeXstudio (https://www.texstudio.org/) sebagai editor untuk Sistem Operasi Windows, MacOS atau Linux
