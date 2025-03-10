@@ -30,8 +30,7 @@ Versi template overleaf dapat diklik pada link berikut https://www.overleaf.com/
 7. Terdapat beberapa tutorial dalam _laporan.tex_ yang dapat dibaca pada _laporan.pdf_ seperti memasukkan gambar, membuat tabel, menuliskan persamaan, menuliskan sumber kode, dan membuat referensi dan sitasi
 8. Pastikan komputer sudah terhubung dengan internet karena diperlukan beberapa paket yang diunduh secara otomatis, kemudian setelah semua selesai bisa klik tombol **run & view** maka dokumen LaTeX akan digenerate dan outputnya adalah _laporan.pdf_
 
-## Screenshot
-![TexStudio on MacOS](gambar/screenshot-texstudio.png "TexStudio on MacOS")
+
 
 ## Catatan
 Apabila ada pertanyaan dan konsultasi terkait template ini bisa tanyakan lewat email ke xxxxx
